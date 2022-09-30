@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my pet-projects.
 - 👀 I’m interested in e-commerce projects on React.
 - 🌱 I’m currently learning TypeScript, React, Redux Toolkit.
 - 👯 I’m looking to collaborate on web-studios and startUPs like frontend developer.
